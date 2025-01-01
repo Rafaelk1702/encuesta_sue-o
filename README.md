@@ -45,3 +45,8 @@ este estudio arroja como novedad que el 15% de los encuestados ha usado o usa ma
 
 
 #Librerias utilizadas: Matplotlib, Pandas, Numpy
+
+#Fuentes:
+https://www.philips.es/a-w/about/news/archive/standard/news/press/2020/20200403-philips-presents-v-dream-survey-where-half-of-the-worlds-population-declares-to-be-satisfied-with-their-dreamb.html
+
+https://www.consalud.es/pacientes/encuesta-philips-mitad-poblacion-satisfecha-sueno_75200_102.html
